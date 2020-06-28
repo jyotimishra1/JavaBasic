@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ubs.frds.service.test.FileManagerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 sec - in com.ubs.frds.service.test.FileManagerTest
